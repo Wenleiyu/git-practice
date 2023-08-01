@@ -1,3 +1,4 @@
 Adding new here
 why it didn't show the different in git bash
 This is the nano .txt file functions
+Add more hereX
