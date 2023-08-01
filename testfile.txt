@@ -1,3 +1,4 @@
 Adding new here
 why it didn't show the different in git bash
 test for new branch
+test for two branch conflict
